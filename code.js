@@ -1,6 +1,5 @@
 /*
-DISCLAIMER: I worked with Howard Shaw on this assignment. We pair programmed the code implementation, additional testing code, and then reasoned out the runtime analysis
- in tandem as well
+DISCLAIMER: I worked with Howard Shaw on this assignment. We pair programmed the code implementation, additional testing code, and then reasoned out the runtime analysis in tandem as well
 */
 function augmentingPath(graph, start, end) {
   if (start == end) {
